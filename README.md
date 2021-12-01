@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 
-Last module of the IBM data science course on coursera
+Last module of the IBM data science course on coursera. An analysis on a Space X data set is carried out, in an attempt to model and predict the successful landing of the first stage. If the latter lands succesfully, it can be reused. This is the principal reason why Space X launches are far cheaper than those offered by other companies. If one could increase the number of succesful landings, this would have an immediate and direct economical impact. 
 
 ## Data Collection
 
