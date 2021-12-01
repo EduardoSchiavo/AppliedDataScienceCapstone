@@ -30,4 +30,18 @@ Geospatial data visualziation
 
 ## ML Prediction
 
-[Calssification](Machine Learning Prediction.ipynb)
+[Calssification](Machine%20Learning%20Prediction.ipynb)
+
+# Final Assignment
+
+The results of the analysis carreid out in the different notebooks is reported in a presentation.
+
+Please Note: precise instructions on how to assemble the presentation were given. This is not necessarily how I would report this DATA 
+
+
+[PDF](EduardoSchiavo_FinalAssignment.pdf)
+
+[PowerPoint](EduardoSchiavo_FinalAssignment.pptx)
+
+
+
